@@ -1,0 +1,98 @@
+[
+  {
+    "title": "1. Static Bookstore Website",
+    "image": "",
+    "description": "Build and deploy a responsive, mobile-ready bookstore website.",
+    "tech": "HTML5, CSS, Bootstrap, Atom, Gitbash/Terminal, Github",
+    "repo": "https://github.com/webdevladies-dr/02-responsive-website",
+    "type": "project"
+  },
+  {
+    "title": "2. Dynamic, Interactive Bookstore",
+    "image": "",
+    "description": "Use CSS Animations, JavaScript, and/or jQuery to add dynamism and interactivity to your Bookstore website.",
+    "tech": "CSS Animations, JavaScript, jQuery",
+    "repo": "",
+    "type": "project"
+  },
+  {
+    "title": "3. Integrate An API",
+    "image": "",
+    "description": "Add functionality to your Bookstore by consuming data from at least one third party API (e.g., Goodreads, YouTube, Amazon, etc.) and delivering it to your users.",
+    "tech": "Postman, JavaScript's Fetch API, third party APIs",
+    "repo": "",
+    "type": "project"
+  },
+  {
+    "title": "Capstone 1: Front-End Website With Third-Party API Consumption",
+    "image": "",
+    "description": "Work with at least one other person to develop a beautiful, interactive, responsive front-end project that makes use of at least one third party API. This is your opportunity to build something you want to build, no holds barred!",
+    "tech": "HTML5, CSS, Bootstrap, JavaScript, jQuery, Postman, API, Pair-programming, Git/Github",
+    "repo": "",
+    "type": "capstone"
+  },
+  {
+    "title": "4. Simple React Bookstore",
+    "image": "",
+    "description": "Re-build your Bookstore using React to render your views. You will use the create-react-app NPM package to bootstrap your package, and Material UI to style your components.",
+    "tech": "React, create-react-app, Material-UI",
+    "repo": "",
+    "type": "project"
+  },
+  {
+    "title": "5. React Bookstore with API and React.Context",
+    "image": "",
+    "description": "Build a stateful React application using the create-react-app NPM package, and integrate one 3rd party external API to enhance you users' experience.",
+    "tech": "React, create-react-app, Material-UI, APIs",
+    "repo": "",
+    "type": "project"
+  },
+  {
+    "title": "6. Firebase Bookstore Project",
+    "image": "",
+    "description": "See how it easy it is to build a serverless full-stack application with user authentication with Firebase and React.",
+    "tech": "Firebase",
+    "repo": "",
+    "type": "project"
+  },
+  {
+    "title": "Capstone 2: Full-Stack Severless App",
+    "image": "",
+    "description": "You will work with at least two other people to put together a full-stack, serverless application website of your choosing.",
+    "tech": "HTML5, CSS, Bootstrap, JavaScript, React, Firebase",
+    "repo": "",
+    "type": "capstone"
+  },
+  {
+    "title": "7. Node Bookstore with an Express Server",
+    "image": "",
+    "description": "Build a node application with an Express server that can deliver your bookstore data.",
+    "tech": "Node, NPM, Inquirer",
+    "repo": "",
+    "type": "project"
+  },
+  {
+    "title": "8. MySQL and Sequelize",
+    "image": "",
+    "description": "Use ERM diagram to build a Bookstore database using MySQL with Sequelize as your ORM.",
+    "tech": "MySQL, Sequilize, Lucid Chart",
+    "repo": "",
+    "type": "project"
+  },
+  {
+    "title": "9. RESTful API",
+    "image": "",
+    "description": "Build a RESTful API with full CRUD funcitonality for your Bookstore. Your users will be able to perform full CRUD funcitonality for the books in the bookstore, including adding, deleting, and updating the books in your bookstore.",
+    "tech": "Node.js, NPM, Inquirer.js",
+    "repo": "",
+    "type": "project"
+  },
+  {
+    "title": "Capstone 3: Full-CRUD App",
+    "image": "",
+    "description": "You will work with at least two other people to put together a full-stack application website with full CRUD functionality.",
+    "tech": "HTML5, CSS, Bootstrap, JavaScript, React, Firebase",
+    "repo": "",
+    "type": "capstone"
+  }
+]

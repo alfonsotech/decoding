@@ -1,0 +1,74 @@
+/* * {
+  outline: 1px dotted red;
+} */
+h1 {
+  font-size: 3em;
+  margin-bottom: 40px;
+}
+h2 {
+  font-size: 2.5em;
+}
+h4 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+h5 {
+    font-size: 1.5em;
+}
+p, li {
+  font-size: 1em;
+}
+.navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+.navigation li {
+  padding: 10px;
+}
+main {
+  padding: 40px;
+}
+main h1, main h5 {
+  text-align: center;
+}
+section {
+  padding-bottom: 20px;
+  padding-top: 5px;
+  border-top: 1px solid green;
+  border-width: 50%;
+}
+.philosophy-text {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+}
+.philosophy-text div p {
+  padding: 10px;
+}
+#curriculum {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.card {
+  padding: 10px;
+  margin: 10px;
+}
+.capstone {
+  width: 80% !important;
+  border: 1px solid rgba(0,0,0,.5);
+}
+.tech-stack {
+  font-size: .7em;
+  font-weight: bold;
+}
+footer {
+  text-align: center;
+  border-top: 1px solid rgba(0,0,0,.1);
+  padding: 5px 20px 0 0;
+}
