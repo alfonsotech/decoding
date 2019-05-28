@@ -5,8 +5,8 @@ $(function() {
     return response.json();
   })
   .then(function(myJson) {
+    let unit;
     myJson.forEach(function(element) {
-      let unit;
       if(element.type === 'capstone') {
         unit = `
         <div class="card capstone" style="width: 18rem;">
